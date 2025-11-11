@@ -1,6 +1,6 @@
 {
   "name": "llm-kg4qa",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "[EMNLP2025] LLM-KG4QA: Large Language Models and Knowledge Graphs for Question Answering",
   "main": "src/index.js",
   "scripts": {
