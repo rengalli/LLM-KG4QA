@@ -8,3 +8,4 @@ build/
 *.tmp
 tmp/
 .pytest_cache/
+.cache/
